@@ -1,0 +1,25 @@
+{
+  "suluPackage": true,
+  "name": "sulu-theme-dark-kingdom",
+  "version": "0.2.0",
+  "description": "A dark theme for sulu fileexplorer",
+  "main": "index.js",
+  "scripts": {
+	"bump": "npm version patch && git push && git push --tags && npm publish",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sulu-one/sulu-theme-dark-kingdom.git"
+  },
+  "keywords": [
+    "sulu",
+    "filemanager"
+  ],
+  "author": "s-a",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sulu-one/sulu-theme-dark-kingdom/issues"
+  },
+  "homepage": "https://github.com/sulu-one/sulu-theme-dark-kingdom#readme"
+}
