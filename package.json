@@ -1,7 +1,7 @@
 {
   "suluPackage": true,
   "name": "sulu-theme-dark-kingdom",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "A dark theme for sulu fileexplorer",
   "main": "index.js",
   "scripts": {
