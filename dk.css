@@ -80,3 +80,29 @@ paper-ripple {
 .active-filesystem-view .symlink-target{
 	color: #F0F0F0;
 }
+
+
+paper-dialog#dialog {
+}
+
+#dialog{
+    background-color: #333E42;
+}
+
+#dialog .paper-button-0 {
+    color: #FF9900;
+}
+
+.polymer-cat, .polymer-cat div{
+	color: #fff;	
+
+}
+
+paper-checkbox.paper-checkbox-0 #checkboxLabel.paper-checkbox{
+	color:#fff;
+}
+
+paper-checkbox.paper-checkbox-0 #checkbox.checked.paper-checkbox{
+    background-color: #FF9900;
+    border-color: #FF9900; 
+}
