@@ -16,7 +16,7 @@ body {
 	background: #54676D;
 }
 
- 
+
 
 
 
@@ -52,15 +52,15 @@ body {
 paper-ripple {
     color: #F0F0F0;
 }
- 
+
 .element-core-data-view-path-item {
 	color: inherit;
 	margin: 0;
-	padding: 0;	
+	padding: 0;
 	text-decoration: none;
 }
 
-.element-core-data-view-path-item:hover{ 
+.element-core-data-view-path-item:hover{
 	text-decoration: underline;
 	color: #FF9900;
 }
@@ -69,5 +69,14 @@ paper-ripple {
 	color: #FF9900;
 }
 
-.active-filesystem-view .element-core-data-view-path-item:hover{  
+.active-filesystem-view .element-core-data-view-path-item:hover{
+}
+
+
+.symlink-target{
+	color: #333E42;
+}
+
+.active-filesystem-view .symlink-target{
+	color: #F0F0F0;
 }
